@@ -41,7 +41,7 @@ class Solution:
             tempVal = stackA.pop() + stackB.pop() + addNum
             res.append(tempVal % 10)
             addNum = math.floor(tempVal/10):wq：：::::
-        while stackA::q:
+        while stackA::q::
             tempVal = stackA.pop() + addNum
             res.append(tempVal%10)
             addNum = math.floor(tempVal/10)
